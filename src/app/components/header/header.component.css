@@ -1,0 +1,40 @@
+.background {
+  background-color: #7338A0;
+  padding: 12px;
+  margin-bottom: 24px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+.Header__Tittle{
+  margin: 0 24px;
+  font-size: 48px;
+}
+
+.Header__Tittle a{
+  color: #97CE7D;
+  display: flex;
+  text-align: center;
+}
+
+.Header__links{
+  display: flex;
+  align-items: center;
+}
+
+.Header__links__list{
+  display: flex;
+}
+
+.Header__links__list__item{
+  margin-left: 24px;
+  font-size: 24px;
+}
+
+.Header__links__list__item a{
+  color: #97CE7D;
+}
+
